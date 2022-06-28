@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .container{
+    background-color: brown;
+
+}
+.fluid{
+    background-color: blueviolet;
+}
+.container1{
+    background-color: blue;
+} */
+.col {
+    height: 250px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.col h1{
+    font-weight: 700;
+    
+}
+
+.herreria{
+    width: 65px;
+    height: 65px;
+    border: solid black 2px;
+    margin: 10px;
+
+}
+.col h1{
+    text-align: center;
+    
+}
+.ruano{
+    width: 100%;
+}
